@@ -1,8 +1,10 @@
-# Hola! En este repositorio encontraras funciones creadas y documentadas por mi que considero utiles para su reutilización!
+# Funciones Útiles en Python por Toko!
 
-Modulos hasta el momento:
-- sum_of_digits.py (Recursive)
+Este repositorio contiene una colección de funciones simples y reutilizables escritas por mi en Python. Sirven como herramientas para tareas comunes de matemáticas, algoritmos y ejercicios de programación :).
+
+## Estructura actual:
+
+- sum_of_digits.py": Calcula la suma de los dígitos de un número tanto positivo como negativo.
 
 
-
-Jheremy D.G
+# Toda la documentación esta en cada modulo.
